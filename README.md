@@ -1,8 +1,6 @@
 # React Dog Facts API - React+Vite & Tailwind - 
 
-This is a project i took the idea during my React classes and decided to do it on react!
-
-The project consists of a responsive site using react, and tailwind for the design with the following:
+The project consists of a responsive site using react+Vite, and tailwind for the design with the following:
 
 - Render an initial list of items to the page (from dog API);
 - Implement controls to remove existing items;
