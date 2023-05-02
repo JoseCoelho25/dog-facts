@@ -21,5 +21,5 @@ See it live https://dog-facts-eta.vercel.app/
 ## Tools & Libraries
 
 [React+Vite](https://vitejs.dev/guide/)  
-[Axios](https://axios-http.com/docs/intro)
+[Axios](https://axios-http.com/docs/intro)  
 [Tailwind](https://tailwindcss.com/)  
