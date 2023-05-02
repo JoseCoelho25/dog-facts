@@ -51,7 +51,7 @@ const DogFacts = () => {
       {isLoading ? (
         <Loading />
       ) : (
-        <div className="container mx-auto py-10 mt-14 w-1/2 bg-gradient-to-r from-cyan-500 to-blue-500">
+        <div className="container py-10 mt-14 md:w-1/2 w-4/5 mx-auto  bg-gradient-to-r from-cyan-500 to-blue-500">
           <h1 className="text-2xl text-center mb-2">Facts about Dogs!</h1>
           <div className="w-4/5 mx-auto grid grid-cols-1 gap-y-6 bg-white rounded-lg p-2 shadow-2xl">
             {facts.map((fact, index) => (
@@ -68,7 +68,7 @@ const DogFacts = () => {
           </div>
         </div>
       )}
-      <div className="container mx-auto w-1/2 mt-7 grid grid-cols-1 gap-y-4 ">
+      <div className="container mx-auto w-4/5 md:w-1/2 mt-7 grid grid-cols-1 gap-y-4 ">
         <div className="relative">
           <input 
           type="text" 
