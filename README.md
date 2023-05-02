@@ -18,7 +18,7 @@ npm install
 
 npm run dev
 
-See it live 
+See it live https://dog-facts-eta.vercel.app/
 
 ## Tools & Libraries
 
